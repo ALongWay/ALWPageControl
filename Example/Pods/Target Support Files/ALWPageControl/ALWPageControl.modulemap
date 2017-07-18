@@ -1,0 +1,6 @@
+framework module ALWPageControl {
+  umbrella header "ALWPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
